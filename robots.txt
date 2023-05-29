@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tooltakes.github.io/sitemap.xml

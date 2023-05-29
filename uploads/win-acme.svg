@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="782.82404"
+   height="172.34756"
+   viewBox="0 0 15.656481 3.4469513"
+   fill="none"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="win-acme.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14">
+    <rect
+       x="150.41473"
+       y="321.99951"
+       width="2707.7493"
+       height="1002.8946"
+       id="rect5320" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.22875"
+     inkscape:cx="1768.306"
+     inkscape:cy="80.874317"
+     inkscape:window-width="1920"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10"
+     lock-margins="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
+  <g
+     id="g4745"
+     transform="matrix(0.21763938,0,0,0.21763938,-0.01763938,-0.01763938)">
+    <path
+       fill="#f35325"
+       d="M 1,1 H 7.5 V 7.5 H 1 Z"
+       id="path2" />
+    <path
+       fill="#81bc06"
+       d="M 8.5,1 H 15 V 7.5 H 8.5 Z"
+       id="path4" />
+    <path
+       fill="#05a6f0"
+       d="M 1,8.5 H 7.5 V 15 H 1 Z"
+       id="path6" />
+    <path
+       fill="#ffba08"
+       d="M 8.5,8.5 H 15 V 15 H 8.5 Z"
+       id="path8" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.02,0,0,0.02,15.225024,-8.3971394)"
+       id="text5318"
+       style="font-style:normal;font-weight:normal;font-size:666.667px;line-height:1.45;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5320);fill:#ff6600;fill-opacity:1;stroke:none"><tspan
+         x="150.41406"
+         y="1058.667"
+         id="tspan4760"><tspan
+           style="font-weight:bold;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'"
+           id="tspan4758">win-acme</tspan></tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+p>img, p>.video-container {
+    margin: 3rem auto;
+    display: block;
+    text-align: center;
+}
+p>img[src$="#left"] {
+    float: left;
+}
+p>img[src$="#center"] {
+    float: center;
+}
+p>img[src$="#right"] {
+    float: right;
+}
+
+/* body>main {
+    padding: var(--block-spacing-vertical) 0 0 0;
+} */
+body>footer {
+    padding: 0 0 var(--block-spacing-vertical) 0;
+}
+
+.grid .container.center {
+    vertical-align: middle;
+    margin: auto;
+}
+
+.grid .container.center img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 50%;
+    border: 3px solid lightsteelblue;
+}
+
+.post {
+    &::first-letter {
+      font-size: inherit;
+      padding: inherit;
+      margin: inherit;
+      float: inherit;
+    }
+  }
